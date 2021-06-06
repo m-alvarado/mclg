@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,sEAAI;AAGZ,OAAO,CAAC,uEAAI",
+    "sources": [
+        "index.scss",
+        "parts/_vars.scss",
+        "parts/_mixins.scss",
+        "parts/_desktop.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
